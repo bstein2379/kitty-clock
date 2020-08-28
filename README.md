@@ -36,25 +36,36 @@ The objective of this project was to implement a basic NTP clock using the M5Sti
 After the program loads, the user is presented with the clock.
 
 ### Clock mode
+  ![Clock](./clock.jpg)
 + Press Button A to adjust the screen brightness
 + Press Button A and Button B simultaneously to force sync the RTC with updated time and date from the NTP sever. This is optional and only necessary if the time gets out of sync.
 + Press Button B to display the Menu
+
+
 
 ### Menu
   1. Clock
   2. Weather
   3. Cats
-
+  
+![Menu](./menu.jpg)
 + Press Button A to move the selection dot down the list. It will wrap back to the top after the last menu item.
 + Press Button B to select that menu item.
 
 ### Weather
+  ![Weather](./weather.jpg)
 + Press Button A to adjust the screen brightness
 + Press Button B to display the Menu
 
 ### Cats
+  ![Cats](./cats.jpg)
 + Press Button A to cycle through the 10 pictures of cute kitty cats.
 + Press Button B to display the Menu
+
+-----------------------------------------------------------------
+
+## uiFlow
+  ![Flow](./flow.png)
 
 -----------------------------------------------------------------
 
